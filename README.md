@@ -1,6 +1,6 @@
 # Secure Real Time Multiplayer Game
 
-[![Run on Repl.it](https://replit.com/badge/github/The-Aldi-Tri/secure-real-time-multiplayer-game)](https://replit.com/new/github/The-Aldi-Tri/secure-real-time-multiplayer-game)
+[![Run on Repl.it](https://replit.com/badge/github/The-Aldi-Tri/secure-real-time-multiplayer-game)](https://replit.com/@The-Aldi-Tri/secure-real-time-multiplayer-game)
 
 
 ## FreeCodeCamp - Information Security Certification Projects
